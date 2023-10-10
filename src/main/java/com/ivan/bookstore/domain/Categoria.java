@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 
-@Entity(name = "Categotia")
+@Entity(name = "Categoria")
 public class Categoria implements Serializable{
 
 	private static final long serialVersionUID = 1L;
